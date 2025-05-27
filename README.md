@@ -23,3 +23,11 @@ Frontend:   HTML | CSS | JavaScript | React | Next.js | Tailwind
 Backend:    Node.js | Express.js
 Database:   MongoDB
 Tools:       GitHub | VS Code | Figma
+
+
+## 📫 Let's Connect
+
+•⁠  ⁠*Email:* [luckymishra2625@gmail.com](mailto:luckymishra2625@gmail.com)
+•⁠  ⁠*LinkedIn:* [Shivansh Mishra](https://www.linkedin.com/in/shivansh-mishra-233b5b2aa)
+•⁠  ⁠*Twitter (X):* [@Mishra0857](https://x.com/Mishra0857?t=CTZ2W5OLf3J138dwSN5IpQ&s=09)
+•⁠  ⁠*Instagram:* [Connect on Instagram](https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=kxn3ls2)
