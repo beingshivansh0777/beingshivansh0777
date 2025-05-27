@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I’m a passionate full stack developer who loves 
 ## 📈 GitHub Stats
 
 ![Shivansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beingshivansh0777&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beingshivansh0777&layout=compact&theme=radical)
+
 
 ---
 
