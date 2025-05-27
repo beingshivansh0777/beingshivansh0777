@@ -10,25 +10,25 @@ Welcome to my GitHub profile! I’m a passionate full stack developer who loves 
 
 •⁠  ⁠🌐 Building modern web apps with *React, Node.js, MongoDB, and more*
 •⁠  ⁠🛠️ Skilled in *JavaScript, TypeScript, Tailwind CSS, Express.js*
-•⁠  ⁠📖 Currently learning *Next.js* and diving deeper into *System Design
-
-
+•⁠  ⁠📖 Currently learning *Next.js* and diving deeper into *System Design*
+•⁠  ⁠✍️ Writing blogs on *web dev, best practices, and coding tips*
+•⁠  ⁠🎯 Goal: To contribute to impactful open-source projects and collaborate with awesome developers
 
 ---
 
 ## 🧰 Tech Stack
 
-```bash
-Frontend:   HTML | CSS | JavaScript | React | Next.js | Tailwind
-Backend:    Node.js | Express.js
-Database:   MongoDB
-Tools:       GitHub | VS Code | Figma
+*Frontend:* HTML, CSS, JavaScript, React, Next.js, Tailwind  
+*Backend:* Node.js, Express.js  
+*Database:* MongoDB, MySQL  
+*Tools:* Git, GitHub, VS Code, Postman, Figma
 
+---
 
 ## 📈 GitHub Stats
 
-![Shivansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanshmishra&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshmishra&layout=compact&theme=radical)
+![Shivansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beingshivansh0777&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beingshivansh0777&layout=compact&theme=radical)
 
 ---
 
@@ -38,3 +38,10 @@ Tools:       GitHub | VS Code | Figma
 •⁠  ⁠*LinkedIn:* [Shivansh Mishra](https://www.linkedin.com/in/shivansh-mishra-233b5b2aa)
 •⁠  ⁠*Twitter (X):* [@Mishra0857](https://x.com/Mishra0857)
 •⁠  ⁠*Instagram:* [@_being_shivansh](https://www.instagram.com/_being_shivansh)
+
+---
+
+Thanks for stopping by! Don't forget to ⭐ some repos if you like what you see!
+
+
+
