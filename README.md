@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shivansh Mishra! 👋
 
-<!--
-**beingshivansh0777/beingshivansh0777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Full Stack Developer | Problem Solver | Tech Enthusiast*
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m a passionate full stack developer who loves building efficient and scalable web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+•⁠  ⁠🌐 Building modern web apps with *React, Node.js, MongoDB, and more*
+•⁠  ⁠🛠️ Skilled in *JavaScript, TypeScript, Tailwind CSS, Express.js*
+•⁠  ⁠📖 Currently learning *Next.js* and diving deeper into *System Design
+
+
+
+---
+
+## 🧰 Tech Stack
+
+```bash
+Frontend:   HTML | CSS | JavaScript | React | Next.js | Tailwind
+Backend:    Node.js | Express.js
+Database:   MongoDB
+Tools:       GitHub | VS Code | Figma
