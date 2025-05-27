@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m a passionate full stack developer who loves 
 *Frontend:* HTML, CSS, JavaScript, React, Next.js, Tailwind  
 *Backend:* Node.js, Express.js  
 *Database:* MongoDB, MySQL  
-*Tools:* Git, GitHub, VS Code, Postman, Figma
+*Tools:* Git, GitHub, VS Code, Figma
 
 ---
 
