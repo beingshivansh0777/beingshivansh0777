@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I’m a passionate full stack developer who loves 
 •⁠  ⁠🌐 Building modern web apps with *React, Node.js, MongoDB, and more*
 •⁠  ⁠🛠️ Skilled in *JavaScript, TypeScript, Tailwind CSS, Express.js*
 •⁠  ⁠📖 Currently learning *Next.js* and diving deeper into *System Design*
-•⁠  ⁠✍️ Writing blogs on *web dev, best practices, and coding tips*
 •⁠  ⁠🎯 Goal: To contribute to impactful open-source projects and collaborate with awesome developers
 
 ---
